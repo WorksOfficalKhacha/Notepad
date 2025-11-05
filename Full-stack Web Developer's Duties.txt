@@ -1,0 +1,21 @@
+Full-stack Web Developer's Duties
+Frontend
+	Web design, directly interact with users
+	Skills: RESTful, APL, UX/UI, Responsive Design, Component-based Architecture, Browser Developer Tools
+	Tools: HTML, CSS, JavaScript, React, Vue, Angular, Svelte, Vite, Sass, SSG
+Backend
+	Create backend system, work behind system
+	Skills: RESTful, APL, Authentication, Logging, Database Management, Software Architecture, Microservice
+	Tools: SQL, NoSQL, Node.js, PHP, Python, Golang, C#, Java, SSR
+DevOps
+	Manage server system, Put the system into actual use, Automatic system, Check for system problems
+	Skills: Monitoring, Tasting, Debugging, Automation, Scaling, Network, Security, Disaster Recovery
+	Tools: Linux, Cloud Platform, PaaS, CI/CD, Git Server, Docker 
+
+Tools and Program language
+find jobs : Blognone, Jobs, JobsDB, JobThai, JobBKK
+Stack Overflow Annual Developer Survey
+State of JavaScript
+StackShare (Top Tools)
+r/webdev
+
