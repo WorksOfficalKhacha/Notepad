@@ -1,5 +1,6 @@
 Education: 
 https://kongruksiam.medium.com
+https://nakorncode.com/
 https://stateofjs.com/en-US
 https://stackshare.io/tools/trending
 https://www.reddit.com/r/webdev/
