@@ -4,6 +4,7 @@ https://nakorncode.com/
 https://stateofjs.com/en-US
 https://stackshare.io/tools/trending
 https://www.reddit.com/r/webdev/
+https://nakorncode.com/cheatsheets/
 
 Youtube:
 https://www.youtube.com/@KongRuksiamOfficial
